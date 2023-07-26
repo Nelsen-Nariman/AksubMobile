@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TrainingFavePert2</string>
+
+    <string-array name="namaBuah">
+        <item>Buah Naga</item>
+        <item>Buah Jeruk</item>
+        <item>Pisang</item>
+        <item>Rambutan</item>
+    </string-array>
+</resources>
